@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/one-life-health-care.git
+   `https://github.com/mohdfurkan01/one-life-healthcare.git`
 
 2. Navigate to the project directory:
    `cd one-life-health-care`
@@ -67,11 +67,11 @@ Ensure you have the following installed:
 
 ### Components
 
--> `Header`: Includes the navigation bar and hamburger menu for mobile responsiveness.
--> `HeroSection`: The main introduction section with a "Get Started" button.
--> `Features`: Highlights the features of One Life Health Care.
--> `Testimonials`: Displays user testimonials.
--> `Footer`: Contains social media links and copyright information.
+1. `Header`: Includes the navigation bar and hamburger menu for mobile responsiveness.
+2. `HeroSection`: The main introduction section with a "Get Started" button.
+3. `Features`: Highlights the features of One Life Health Care.
+4. `Testimonials`: Displays user testimonials.
+5. `Footer`: Contains social media links and copyright information.
 
 ### Styling
 
